@@ -1,0 +1,13 @@
+{
+    "pages": {
+        "index": {
+            "path": "./src/pages/home/index.ejs",
+            "chunks": [
+                "home"
+            ]
+        }
+    },
+    "handlers": {
+        "home": "./src/handlers/home/index.js"
+    }
+}
